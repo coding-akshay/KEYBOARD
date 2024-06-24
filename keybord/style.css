@@ -1,0 +1,47 @@
+.mainbox{
+    margin-top:300px;
+    margin-left:200px;
+    padding: 20PX;
+    margin-right:500PX;
+    background-color:burlywood;
+    border-radius: 20PX;
+    border: solid black;
+margin-right:613px;
+text-align: center;
+
+
+
+}
+button{
+   padding: 20px;
+border-radius: 5px;
+
+
+}
+.move{
+    display: flex;
+    gap: 6.7px;
+}
+.shif{
+    display: flex;
+    gap: 3px;
+}
+
+
+.low{
+    padding: 19px 20px    ;
+}
+.hig{
+    padding:18px 71px;
+}
+button:hover{
+    background-color:yellowgreen
+    
+}
+.S{
+    padding:1px 49px;
+}
+.sh{
+    padding: 1px 47px;
+}
+

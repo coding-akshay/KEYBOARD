@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+}
+.parent{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(255, 247, 0);
+    display :flex ;
+    justify-content: center;
+    align-items: center;
+
+}
+.child{
+    width: 100px;
+    height: 100px;
+    background-color:red;
+    border: 1px solid black;
+}
